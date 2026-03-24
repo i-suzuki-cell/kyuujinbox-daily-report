@@ -1,0 +1,1 @@
+# kyuujinbox-daily-report
