@@ -1,0 +1,12 @@
+[
+  {
+    "label": "株式会社A",
+    "login_id": "example@example.com",
+    "password": "your_password_here"
+  },
+  {
+    "label": "株式会社B",
+    "login_id": "example2@example.com",
+    "password": "your_password_here"
+  }
+]
